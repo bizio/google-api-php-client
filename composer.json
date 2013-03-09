@@ -1,0 +1,13 @@
+{
+    "name": "bizio/google-api-php-client",
+    "description": "Google APIs Client Library for PHP",
+    "type": "library",
+    "keywords": [
+        "google",
+        "api"
+    ],
+    "homepage": "http://developers.google.com/",
+    "require": {
+        "php": ">=5.2.*"
+    },
+}

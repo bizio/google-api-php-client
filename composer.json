@@ -9,5 +9,5 @@
     "homepage": "http://developers.google.com/",
     "require": {
         "php": ">=5.2.*"
-    },
+    }
 }

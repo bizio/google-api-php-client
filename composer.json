@@ -8,6 +8,6 @@
     ],
     "homepage": "http://developers.google.com/",
     "require": {
-        "php": ">=5.2.*"
+        "php": "5.2.*"
     }
 }

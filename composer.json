@@ -1,6 +1,5 @@
 {
     "name": "bizio/google-api-php-client",
-    "version": "0.6.1",
     "description": "Google APIs Client Library for PHP",
     "type": "library",
     "keywords": [
@@ -13,7 +12,7 @@
         "type": "vcs"
     },
     "require": {
-        "php": "5.2.*",
+        "php": ">=5.2.x",
         "lib-curl": "*"
     },
     "target-dir": "vendor/kwl"

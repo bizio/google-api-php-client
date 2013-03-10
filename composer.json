@@ -12,7 +12,7 @@
         "type": "vcs"
     },
     "require": {
-        "php": ">=5.2.x",
+        "php": ">=5.2.3",
         "lib-curl": "*"
     },
     "target-dir": "vendor/kwl"

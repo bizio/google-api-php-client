@@ -9,10 +9,11 @@
     ],
     "homepage": "http://developers.google.com/",
     "dist": {
-        "url": "https://github.com/bizio/google-api-php-client.git",
+        "url": "https://github.com/bizio/google-api-php-client",
         "type": "vcs"
     },
     "require": {
         "php": "5.2.*"
-    }
+    },
+    "target-dir": "vendor/kwl"
 }

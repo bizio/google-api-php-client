@@ -11,5 +11,8 @@
         "php": ">=5.2.3",
         "lib-curl": "*"
     },
+    "autoload": {
+        "files": ["src/Google_Client.php"]
+    },
     "target-dir": "vendor/kwl"
 }

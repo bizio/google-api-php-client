@@ -1,5 +1,6 @@
 {
     "name": "bizio/google-api-php-client",
+    "version": "0.6.2",
     "description": "Google APIs Client Library for PHP",
     "type": "library",
     "keywords": [
